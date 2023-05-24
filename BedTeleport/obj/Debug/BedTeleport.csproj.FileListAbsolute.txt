@@ -1,0 +1,2 @@
+C:\Users\BlackDheart\Desktop\.Net Projects\Subnatica_bed tp\BedTeleport\obj\Debug\BedTeleport.csproj.AssemblyReference.cache
+C:\Users\BlackDheart\Desktop\.Net Projects\Subnatica_bed tp\BedTeleport\obj\Debug\BedTeleport.csproj.CoreCompileInputs.cache
